@@ -6,12 +6,12 @@ Mentor : Amilin <br>
 
 ### **Database Structure**
 
-<img href="/images/struktur_db.png">
+<img src="images/struktur_db.png">
 
 <br><br>
 
 ### **Entity Relational Diagram**
 
-<img href="/images/erd.png">
+<img src="images/erd.png">
 
 <br><br>
